@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/tacsio.gif?z=6)](https://github4life.herokuapp.com/tacsio)
 
 
 <a href="https://github.com/tacsio">
