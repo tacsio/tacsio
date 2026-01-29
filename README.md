@@ -2,7 +2,7 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/tacsio.gif?z=6)](https://github4life.herokuapp.com/tacsio)
 
-
+<!--
 <a href="https://github.com/tacsio">
   <img src="https://github-readme-stats.vercel.app/api?username=tacsio&show_icons=true&theme=blue-green" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacsio&show_icons=true&theme=blue-green&layout=compact" />
